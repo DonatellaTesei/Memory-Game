@@ -173,4 +173,4 @@ particlesJS("particles-js", { "particles": { "number": { "value": 80, "density":
 //     if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) { count_particles.innerText = window.pJSDom[0].pJS.particles.array.length; }
 //     requestAnimationFrame(update);
 // };
-requestAnimationFrame(update);;
+// requestAnimationFrame(update);
